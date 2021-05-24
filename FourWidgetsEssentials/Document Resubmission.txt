@@ -1,0 +1,8 @@
+this homework is being resubmitted because I made several errors with directory
+access of class files and submitted the project instead of just the classes.
+i've altered the directory pathing of the CC_SoundboardJPanel and 
+CC_RotatingCowJPanel classes to be dependent on where the user's class
+folder is located, as well as correctly implemented each file in the class
+directory. i've also fixed the issues with the CC_MouseMotionJPanel class
+not displaying the red color on the buttons when hovered over, and got rid of
+the playSound method in the same class due to its lack of use.
